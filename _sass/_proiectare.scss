@@ -1,0 +1,80 @@
+.proiectare-wrapper{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.proiectare-instalatii{
+	max-width: 350px;
+	width: 100%;
+}
+.proiectare{
+  background:url(/images/proiectare.jpg) no-repeat center center fixed;
+    width:100%;
+    height:400px;
+    margin:0;
+    background-size:cover;
+
+}
+.casa{
+  background:url(/images/proiectare.png) no-repeat;
+  height: 190px;
+  width: 190px;
+  display:block;  
+  margin:0 auto;  
+ background-position: -500px -214px;
+
+}
+.hale{
+  background:url(/images/proiectare.png) no-repeat;
+  height: 190px;
+  width: 190px;
+  display:block;  
+  margin:0 auto;  
+ background-position: -10px -5px;
+
+}
+.fotovoltaic{
+  background:url(/images/proiectare.png) no-repeat;
+  height: 190px;
+  width: 190px;
+  display:block;  
+  margin:0 auto;  
+ background-position: -255px -215px;
+
+}
+.iluminat-stradal{
+  background:url(/images/proiectare.png) no-repeat;
+  height: 190px;
+  width: 190px;
+  display:block;  
+  margin:0 auto;  
+ background-position: -500px -5px;
+
+}
+.siguranta{
+  background:url(/images/proiectare.png) no-repeat;
+  height: 190px;
+  width: 190px;
+  display:block;  
+  margin:0 auto;  
+ background-position: -255px -5px;
+
+}
+.automatizari{
+  background:url(/images/proiectare.png) no-repeat;
+  height: 190px;
+  width: 190px;
+  display:block;  
+  margin:0 auto;  
+ background-position: -10px -215px;
+
+}
+.titlu-3{
+	font-size: 3rem;
+}
+.top-banner{
+	background:url(/images/proiectare-executie.jpg) center center fixed no-repeat;
+	width: 100%;
+	height: 300px;
+	background-size: 1800px;	
+}
