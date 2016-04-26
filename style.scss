@@ -275,7 +275,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  background-color: $primaryColor;
 }
 
 footer {
@@ -285,7 +285,7 @@ footer {
 .intro-wrapper{
   background: url(/images/intro.jpg) center center;
   height: 400px;
-  width:100vw;
+  
   background-size: 2200px;
   display: flex;
   justify-content: center;
@@ -318,7 +318,7 @@ body{
   padding: 20px;
 }
 .serviciileNoastre h2{
-  font-size:3rem;
+  font-size:2.5rem;
   font-weight:300;
   color:#212121;
   padding-bottom: 60px;
@@ -376,6 +376,53 @@ body{
 }
 .text-area-form{
   margin:20px;
+}
+.input-form{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin:20px;
+}
+.input-form input{
+  border:solid 1px #212121;
+}
+.form-background{
+ background-color: $primaryColor;
+ padding: 10px;
+}
+input[type=submit]{
+  background-color: $accentColor;
+  border:transparent;
+  padding: 10px 20px;
+  color:$primaryWhiteText;
+  font-weight: 300;
+  text-transform: uppercase;
+  margin-left: 20px;
+}
+input[type=text], input[type=email], input[type=tel] {
+  padding: 10px 20px;
+  margin:10px;
+  border: transparent;
+}
+nav img{
+  width: 40px;
+}
+.autor-site img{
+  width:40px;
+}
+.autor-site{
+  position: relative;
+}
+.sm-design{
+  color:#FFF;
+bottom:53%;
+  position: absolute;
+  right: -85px;
+}
+nav a img{
+  position: relative;
+  top:10px;
+  margin-right: 8px;
 }
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start

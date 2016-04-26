@@ -39,7 +39,7 @@ layout: default
      </div>
 </div>
 
-
+<div class="form-background">
 <form action="https://getsimpleform.com/messages?form_api_token=aad2af998643feb6aebfe788ff855426" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
   <input type='hidden' name='redirect_to' value='http://blog.soulmatters.ro/index.html' />
@@ -55,17 +55,4 @@ layout: default
   <input type='submit' value='Trimite' />
 </form>
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
 </div>

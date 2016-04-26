@@ -18,10 +18,11 @@ avatar: /images/logo.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: cosmin.iuresel@home-electric.ro
+  facebook: HomeElectricCDI
+  creator: http://sm-design.ro
   flickr:
-  github: Soulmatters/soulmatters-blog
+  github: 
   instagram:
   linkedin:
   pinterest:
@@ -29,7 +30,7 @@ footer-links:
   twitter: #
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  googleplus: u/0/b/102876120754765239538/+Home-electricRo
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
