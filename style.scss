@@ -151,7 +151,7 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
+  margin-bottom: 0px;
 }
 
 .masthead {
@@ -282,7 +282,35 @@ footer {
   padding: 20px 0;
   text-align: center;
 }
+.intro-wrapper{
+  background: url(/images/intro.jpg) center center;
+  height: 400px;
+  width:100vw;
+  background-size: 2200px;
+  display: flex;
+  justify-content: center;
 
+}
+.intro-wrapper h1{
+  font-size:5rem;
+  color:#fff;
+  text-shadow: 2px 2px 2px #212121;
+}
+.text-center{
+  text-align: center;
+}
+.intro-cta p{
+  font-size: 2rem;
+  color:#fff;
+  font-weight: 300;
+  margin:0;
+}
+.intro-cta{
+  background:#FF5722;
+}
+body{
+  font-family: 'Roboto', sans-serif;
+}
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
