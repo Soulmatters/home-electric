@@ -307,9 +307,58 @@ footer {
 }
 .intro-cta{
   background:#FF5722;
+  padding: 40px 0;
 }
 body{
   font-family: 'Roboto', sans-serif;
+}
+.servicii-wrapper-box p{
+  font-size:17px;
+  color:#727272;
+  padding: 20px;
+}
+.serviciileNoastre h2{
+  font-size:3rem;
+  font-weight:300;
+  color:#212121;
+  padding-bottom: 60px;
+
+}
+.serviciileNoastre h3{
+  font-size:2rem;
+  font-weight:300;
+  color:#212121;
+
+}
+
+.serviciileNoastre{
+  padding: 60px 0;
+}
+
+.serviciileNoastre .btn{
+  width:140px;
+  font-size:18px;
+  font-weight:300;
+  background:#FF5722;
+  color:white;
+  height:40px;
+
+}
+.serviciileNoastre a{
+  margin:40px auto ;
+}
+.servicii-wrapper{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.servicii-wrapper-box{
+  width: 400px;
+  align-self: center;
+}
+.servicii-wrapper-box img{
+  display: block;
+  margin:0 auto;
 }
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
