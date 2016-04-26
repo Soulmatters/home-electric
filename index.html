@@ -40,7 +40,20 @@ layout: default
 </div>
 
 
-
+<form action="https://getsimpleform.com/messages?form_api_token=aad2af998643feb6aebfe788ff855426" method="post">
+  <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
+  <input type='hidden' name='redirect_to' value='http://blog.soulmatters.ro/index.html' />
+  <!-- all your input fields here.... -->
+  <div class="input-form">
+  <input type='text' name='Nume și Prenume' placeholder="Nume și Prenume"/>
+  <input type='email' name='Email' placeholder="Email"/>
+  <input type='tel' name='Telefon' placeholder="Număr de telefon"/>
+  </div>
+  <div class="text-area-form">
+  <textarea name="Mesajul dumneavoastră" id="mesaj-client" cols="60" rows="10"></textarea>
+  </div>
+  <input type='submit' value='Trimite' />
+</form>
 
 <div class="posts">
   {% for post in site.posts %}

@@ -360,6 +360,23 @@ body{
   display: block;
   margin:0 auto;
 }
+.btn-default{
+  padding: 10px 20px;
+}
+.center-block{
+  display: block;
+  margin: 0 auto;
+}
+.text-area-form textarea{
+  max-width:1000px;
+  width:100%;
+  display: block;
+  margin:0 auto;
+
+}
+.text-area-form{
+  margin:20px;
+}
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
