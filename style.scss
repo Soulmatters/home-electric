@@ -368,15 +368,21 @@ body{
   margin: 0 auto;
 }
 .text-area-form textarea{
-  max-width:1000px;
+  
   width:100%;
   display: block;
   margin:0 auto;
 
 }
-.text-area-form{
-  margin:20px;
+.text-area-form {
+  max-width:1000px;
+  width:100%;
+  display: block;
+  margin:20px auto;
+
+
 }
+
 .input-form{
   display: flex;
   flex-wrap: wrap;
@@ -401,15 +407,22 @@ input[type=submit]{
   font-weight: 300;
   text-transform: uppercase;
   margin-left: 20px;
+  margin-top:20px;
 }
 input[type=text], input[type=email], input[type=tel] {
   padding: 10px 20px;
   margin-top:10px;
   border: transparent;
 }
+.form-background h3{
+  color:$primaryWhiteText;
+  font-weight: 300;
+  font-size: 2rem;
+}
 nav img{
   width: 40px;
 }
+
 .autor-site img{
   width:40px;
 }
