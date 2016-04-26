@@ -384,6 +384,7 @@ body{
   margin:20px;
   width: 100%;
   max-width: 1000px;
+  margin:0 auto;
 }
 .input-form input{
   border:solid 1px #212121;
@@ -403,7 +404,7 @@ input[type=submit]{
 }
 input[type=text], input[type=email], input[type=tel] {
   padding: 10px 20px;
-  margin:10px;
+  margin-top:10px;
   border: transparent;
 }
 nav img{
