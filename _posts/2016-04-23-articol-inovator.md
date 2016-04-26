@@ -1,6 +1,7 @@
 ---
 published: false
 layout: post
+published: true
 ---
 ## A New Post
 

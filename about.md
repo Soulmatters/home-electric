@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Despre Home-Electric
+permalink: /Despre/
 ---
 
 Some information about you!
