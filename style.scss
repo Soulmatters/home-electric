@@ -382,6 +382,8 @@ body{
   flex-wrap: wrap;
   justify-content: space-between;
   margin:20px;
+  width: 100%;
+  max-width: 1000px;
 }
 .input-form input{
   border:solid 1px #212121;
