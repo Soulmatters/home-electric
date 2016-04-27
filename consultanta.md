@@ -2,6 +2,7 @@
 layout: page
 title: Consultanță
 permalink: /Consultanta/
+published: true
 ---
 
 <div class="consultanta"></div>
