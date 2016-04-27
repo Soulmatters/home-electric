@@ -2,6 +2,7 @@
 layout: page
 title: Blog
 permalink: /Blog/
+published: true
 ---
 <style>
 .posts{
@@ -29,7 +30,7 @@ permalink: /Blog/
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-		<img src="{{ post.imagine }}" alt="">
+		{{ post.imagine }}
       <div class="entry">
         {{ post.excerpt }}
       </div>
