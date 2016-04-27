@@ -23,12 +23,15 @@ published: true
 	}
 	.post h1{
 		font-size: 1.5em;
-		padding: 10px;
+		padding: 20px;
+	}
+	.entry{
+		padding: 20px;
 	}
 </style>
 <div class="posts">
   {% for post in site.posts %}
-    <article class="post">
+    <article class="post paper-shadow-bottom-z-2">
 
 <a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ post.imagine }}" alt=""></a>
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
@@ -37,7 +40,7 @@ published: true
         {{ post.excerpt }}
       </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Citește mai departe</a>
+      
     </article>
   {% endfor %}
 </div>
