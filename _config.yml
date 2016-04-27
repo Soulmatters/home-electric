@@ -77,7 +77,7 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-
+  - jekyll-timeago
 # Exclude these files from your production _site
 exclude:
   - Gemfile
@@ -85,3 +85,21 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+jekyll_timeago:
+  today: 'azi'
+  yesterday: 'ieri'
+  tomorrow: 'mâine'
+  and: 'și'
+  suffix: 'în urmă'
+  prefix: ''
+  suffix_future: 'in'
+  prefix_future: ''
+  years: 'ani'
+  year: 'an'
+  months: 'luni'
+  month: 'lună'
+  weeks: 'săptămâni'
+  week: 'sătpămână'
+  days: 'zile'
+  day: 'zi'
