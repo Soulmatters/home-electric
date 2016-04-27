@@ -14,6 +14,7 @@ published: true
 		width: 100%;
 		max-width: 300px;
 		background: #fff;
+		margin:10px 15px;
 	}
 	.post img{
 		height: 300px;
@@ -29,8 +30,9 @@ published: true
   {% for post in site.posts %}
     <article class="post">
 
+<a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ post.imagine }}" alt=""></a>
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-		<img src="{{ post.imagine }}" alt="">
+		
       <div class="entry">
         {{ post.excerpt }}
       </div>

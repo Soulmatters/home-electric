@@ -3,10 +3,12 @@ layout: page
 title: Proiectare și execuție
 permalink: /Proiectare-si-executie/
 ---
+
+
 <div class="top-banner"></div>
 <h3 class="text-center titlu-3">Proiectez și execut instalații electrice pentru:</h3>
 <div class="proiectare-wrapper">
-
+<div class="proiectare-wrapper-margin">
 <div class="proiectare-instalatii ">
 	<div class="casa"></div>
 		<h3 class="text-center">Case și apartamente</h3>
@@ -30,5 +32,6 @@ permalink: /Proiectare-si-executie/
 <div class="proiectare-instalatii">
 	<div class="automatizari "></div>
 		<h3 class="text-center">Automatizări pentru diverse aplicații de uz caznic sau industrial</h3>
+</div>
 </div>
 </div>
