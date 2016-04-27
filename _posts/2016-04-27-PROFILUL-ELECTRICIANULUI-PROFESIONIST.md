@@ -1,6 +1,7 @@
 ---
 published: true
 title: PROFILUL ELECTRICIANULUI PROFESIONIST
+layout: post
 ---
  
 
@@ -47,7 +48,3 @@ Electricianul în construcții trebuie sã fie capabil pentru a:
 - execută lucrări de remediere a defecțiunilor de orice tip apărute la instalațiile montate.
 
    Electricianul în construcții, trebuie să dețină un volum mare de cunoștințe teoretice și practice din domeniile: electrotehnicã, electronicã, mecanicã, echipamente actionate electric. Practic întreaga profesie este un proces de instruire continuă,totodată pentru a fi în pas și cu progresul tehnologic al instalațiilor electrice.
-
-
-
-
