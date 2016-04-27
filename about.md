@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Despre Home-Electric
+title: "Despre Home-Electric"
 permalink: /Despre/
+published: true
 ---
 
 <div class="container">
