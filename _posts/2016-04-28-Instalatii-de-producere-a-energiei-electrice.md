@@ -3,7 +3,7 @@ published: true
 title: INSTALAȚII DE PRODUCERE A ENERGIEI ELECTRICE
 layout: post
 imagine: /images/electro640.jpg
-excerpt: Transportul energiei electrice spre consumatori se face prin mai multe linii electrice aeriene (LEA).
+excerpt: 
 ---
  
  
