@@ -4,7 +4,7 @@ title: PRODUCEREA ENERGIEI ELECTRICE
 - SUMAR -
 layout: post
 imagine: /images/becuri.jpg
-excerpt:Energia electrică este produsă de centralele electrice.
+excerpt: Energia electrică este produsă de centralele electrice. Energie chimică, atomică, eolian, solar, hidroelectrică.
 ---
 
 
