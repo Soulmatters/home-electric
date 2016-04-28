@@ -3,7 +3,6 @@ published: true
 title: CE ESTE UN SISTEM ENERGETIC NATIONAL „SEN”?
 layout: post
 imagine: /images/power.jpg
-
 excerpt: Prin instalaţie electrică se înţelege ansamblul de echipamente electrice interconectate.
 ---
 
