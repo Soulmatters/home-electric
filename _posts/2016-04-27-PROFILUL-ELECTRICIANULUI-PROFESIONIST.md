@@ -30,7 +30,7 @@ Această profesie nu o poate practica oricine și necesită o pregătire continu
 
 Deoarece foarte multe persoane nu cunosc atribuțiile și aptitudinile **electricianului**, voi încerca să vă descriu câteva elemente-cheie, ce conturează profilul profesional al acestuia: 
 
-        În primul rând, **electricianul** trebuie să dețină o serie de aptitudini esențiale ce țin de atenție, îndemânare și asumare a responsabilității asupra activității pe care o desfășoară. De asemenea, este esențială respectarea normelor de protecție a muncii și comunicarea eficientă cu membrii echipei, unde este cazul. Astfel, orice lucrare va fi dusă la bun sfârșit, fără incidente.
+În primul rând, **electricianul** trebuie să dețină o serie de aptitudini esențiale ce țin de atenție, îndemânare și asumare a responsabilității asupra activității pe care o desfășoară. De asemenea, este esențială respectarea normelor de protecție a muncii și comunicarea eficientă cu membrii echipei, unde este cazul. Astfel, orice lucrare va fi dusă la bun sfârșit, fără incidente.
 
 **Electricianul** este omul care preia o responsabilitate mare atunci când desfășoară o lucrare. Acesta de fiecare dată se supune și unui oarecare risc, întrucât sunt multe alte elemente neprevăzute care pot interveni și dăuna muncii sau siguranței sale. 
 ![Electrician, Home-Electric](/images/bec, priză electricitate.jpg)
@@ -38,9 +38,8 @@ Deoarece foarte multe persoane nu cunosc atribuțiile și aptitudinile **electri
 ## Atribuțiile electricianului în construcții ##
 
 Electricianul în domeniul construcțiilor trebuie sã fie capabil pentru a:
-
-          - diagnostica, remedia toate tipurile de **instalații** și **echipamente electrice** specifice construcțiilor civile și/sau industriale.
-         - monta și a pune în funcțiune diferite instalații electrice.
+- diagnostica, remedia toate tipurile de **instalații** și **echipamente electrice** specifice construcțiilor civile și/sau industriale.
+- monta și a pune în funcțiune diferite instalații electrice.
 
   Practic, **electricianul în construcții** realizeazã următoarele activități specifice :
 
