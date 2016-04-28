@@ -3,6 +3,7 @@ published: true
 title: CE ESTE UN SISTEM ENERGETIC NATIONAL „SEN”?
 layout: post
 imagine: /images/power.jpg
+
 excerpt: Prin instalaţie electrică se înţelege ansamblul de echipamente electrice interconectate.
 ---
 
@@ -12,7 +13,7 @@ Prin **instalaţie electrică** se înţelege ansamblul de echipamente electrice
 
 **Echipamentele** instalaţiilor electrice sunt constituite din totalitatea maşinilor, aparatelor dispozitivelor şi receptoarelor electrice interconectate între ele.
 
-**Receptoarele electrice** sunt acele elemente ale echipamentelor electrice care transformă energia electrică în altă formă de energie (mecanică, termică, luminoasă, etc.)
+**Receptoarele electrice** sunt acele elemente ale echipamentelor electrice care transformă energia electrică în altă formă de energie (mecanică, termică, luminoasă etc.)
 
 Ansamblul instalaţiilor electrice de producere, transport, distribuţie şi consum de energie electrică, care au în comun un sistem continuu de producere şi consum, formează un **sistem electroenergetic,** reprezentat mai jos în figura:
 
