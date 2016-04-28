@@ -11,7 +11,7 @@ PROFILUL ELECTRICIANULUI PROFESIONIST
 
 ELECTRICIANUL ÎN CONSTRUCȚII
  
-![Electrician, Home-Electric]({{site.baseurl}}/images/electrician.jpg)
+![Electrician, Home-Electric](/images/electrician.jpg)
 
 ### Profesie și dedicare
 
