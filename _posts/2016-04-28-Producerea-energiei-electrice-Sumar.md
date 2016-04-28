@@ -1,6 +1,7 @@
 ---
 published: true
-title: PRODUCEREA ENERGIEI ELECTRICE - SUMAR
+title: PRODUCEREA ENERGIEI ELECTRICE 
+- SUMAR -
 layout: post
 imagine: /images/becuri.jpg
 excerpt: Prin instalaţie electrică se înţelege ansamblul de echipamente electrice interconectate.
