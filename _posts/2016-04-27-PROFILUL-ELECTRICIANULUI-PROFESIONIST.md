@@ -20,13 +20,13 @@ ELECTRICIANUL ÎN CONSTRUCȚII
 **ELECTRICIANUL ÎN CONSTRUCȚII.**
 
 
-## Profesie și dedicare ##
+## Profesie și dedicare
 
 **Electricianul** este o persoană cu o pregătire temeinică în domeniul **energiei electrice**, avizat să efectueze lucrări de proiectare, execuție sau mentenanță instalații electrice.
 
 Această profesie nu o poate practica oricine și necesită o pregătire continuă, dedicare și respectare fără abateri a normelor ce vizează **siguranța muncii** desfășurate.
 
-## Profilul profesional al unui bun electrician ##
+## Profilul profesional al unui bun electrician
 
 Deoarece foarte multe persoane nu cunosc atribuțiile și aptitudinile **electricianului**, voi încerca să vă descriu câteva elemente-cheie, ce conturează profilul profesional al acestuia: 
 
@@ -35,7 +35,7 @@ Deoarece foarte multe persoane nu cunosc atribuțiile și aptitudinile **electri
 **Electricianul** este omul care preia o responsabilitate mare atunci când desfășoară o lucrare. Acesta de fiecare dată se supune și unui oarecare risc, întrucât sunt multe alte elemente neprevăzute care pot interveni și dăuna muncii sau siguranței sale. 
 ![Electrician, Home-Electric](/images/bec, priză electricitate.jpg)
 
-## Atribuțiile electricianului în construcții ##
+## Atribuțiile electricianului în construcții
 
 Electricianul în domeniul construcțiilor trebuie sã fie capabil pentru a:
 - diagnostica, remedia toate tipurile de **instalații** și **echipamente electrice** specifice construcțiilor civile și/sau industriale.
