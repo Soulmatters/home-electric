@@ -6,6 +6,9 @@ imagine: /images/power.jpg
 excerpt: Prin instalaţie electrică se înţelege ansamblul de echipamente electrice interconectate.
 ---
 
+ 
+![Electrician, Home-Electric](/images/power.jpg)
+
 ## CE ESTE UN SISTEM ENERGETIC NATIONAL „SEN”?
 
 Prin **instalaţie electrică** se înţelege ansamblul de echipamente electrice interconectate, situat într-un anumit spaţiu, care are o funcţionalitate bine determinată.
