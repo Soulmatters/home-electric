@@ -4,9 +4,7 @@ title: PRODUCEREA ENERGIEI ELECTRICE
 - SUMAR -
 layout: post
 imagine: /images/becuri.jpg
-excerpt:Energia electrică este produsă de centralele electrice. Acestea
-
-cuprind un complex de instalaţii
+excerpt:Energia electrică este produsă de centralele electrice.
 ---
 
 
