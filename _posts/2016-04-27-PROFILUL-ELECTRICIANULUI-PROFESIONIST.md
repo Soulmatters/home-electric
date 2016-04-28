@@ -3,7 +3,7 @@ published: true
 title: PROFILUL ELECTRICIANULUI PROFESIONIST
 layout: post
 imagine: /images/electrician.jpg
-excerpt: Electricianul este o persoană cu o pregătire temeinică în domeniul energiei electrice, avizat să efectueze lucrări de proiectare, execuție sau mentenanță instalații electrice.
+excerpt: Electricianul este o persoană cu o pregătire temeinică în domeniul energiei electrice.
 ---
  
  
