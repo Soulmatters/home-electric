@@ -52,7 +52,7 @@ Electricianul în domeniul construcțiilor trebuie sã fie capabil pentru a:
 
 - execută lucrări de remediere a defecțiunilor de orice tip apărute la instalațiile montate.
 
-   Electricianul în domeniul construcțiilor, trebuie să dețină un volum mare de cunoștințe teoretice și practice din: electrotehnicã, electronicã, mecanicã, echipamente acționate electric. Pentru a fi în pas și cu progresul tehnologic al instalațiilor electrice, întreaga profesie presupune proces de instruire continuă și dedicare.
+   Electricianul în domeniul construcțiilor, trebuie să dețină un volum mare de cunoștințe teoretice și practice din: electrotehnicã, electronicã, mecanicã, echipamente acționate electric. Pentru a fi în pas și cu progresul tehnologic al instalațiilor electrice, întreaga profesie presupune un proces de instruire continuă și dedicare.
 
 
 
