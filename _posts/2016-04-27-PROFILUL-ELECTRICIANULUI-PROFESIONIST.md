@@ -32,6 +32,7 @@ Deoarece foarte multe persoane nu cunosc atribuțiile și aptitudinile **electri
 ![Electrician, Home-Electric](/images/bec, priză electricitate.jpg)
 
 ## ELECTRICIANUL ÎN CONSTRUCȚII.
+
 ### Atribuțiile electricianului în construcții
 
 
