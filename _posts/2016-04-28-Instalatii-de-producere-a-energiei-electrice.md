@@ -3,7 +3,7 @@ published: true
 title: INSTALAȚII DE PRODUCERE A ENERGIEI ELECTRICE
 layout: post
 imagine: /images/electro640.jpg
-excerpt: 
+excerpt: La consumator tensiunea este micşorată de transformatoarele staţiei coborâtoare de tensiune ST2 până la nivelul 6 kV, 10 kV sau 20 kV.
 ---
  
  
