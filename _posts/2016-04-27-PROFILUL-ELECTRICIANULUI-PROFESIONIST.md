@@ -6,10 +6,6 @@ imagine: /images/electrician.jpg
 excerpt: Electricianul este o persoană cu o pregătire temeinică în domeniul energiei electrice, avizat să efectueze lucrări de proiectare, execuție sau mentenanță instalații electrice.
 ---
  
-
-PROFILUL ELECTRICIANULUI PROFESIONIST
-
-ELECTRICIANUL ÎN CONSTRUCȚII
  
 ![Electrician, Home-Electric](/images/electrician.jpg)
 
