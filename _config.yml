@@ -27,25 +27,8 @@ footer-links:
 gems: 
   - jekyll-sitemap
   - jekyll-feed
-  - jekyll-timeago
+  
 google_analytics: UA-61875005-1
-jekyll_timeago: 
-  and: și
-  day: zi
-  days: zile
-  month: lună
-  months: luni
-  prefix: ""
-  prefix_future: ""
-  suffix: "în urmă"
-  suffix_future: in
-  today: azi
-  tomorrow: mâine
-  week: sătpămână
-  weeks: săptămâni
-  year: an
-  years: ani
-  yesterday: ieri
 kramdown: 
   input: GFM
   syntax_highlighter: rouge
