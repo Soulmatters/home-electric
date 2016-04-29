@@ -1,105 +1,59 @@
-#
-# This file contains configuration flags to customize your site
-#
-
-# Name of your site (displayed in the header)
-name: Home Electric
-
-# Short bio or description (displayed in the header)
-description: Autorizat ANRE
-
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
+--- 
 avatar: /images/logo.png
-
-#
-# Flags below are optional
-#
-
-# Includes an icon in the footer for each username you enter
-footer-links:
-  dribbble:
-  email: cosmin.iuresel@home-electric.ro
-  facebook: HomeElectricCDI
-  creator: http://sm-design.ro
-  flickr:
-  github: 
-  instagram:
-  linkedin:
-  pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: #
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: u/0/b/102876120754765239538/+Home-electricRo
-
-
-# Enter your Disqus shortname (not your username) to enable commenting on posts
-# You can find your shortname on the Settings page of your Disqus account
-disqus: smblog-4us
-
-# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-61875005-1
-
-# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
-# Used for Sitemap.xml and your RSS feed
-url: soulmatters.github.io/home-electric
-
-# If you're hosting your site at a Project repository on GitHub pages
-# (http://yourusername.github.io/repository-name)
-# and NOT your User repository (http://yourusername.github.io)
-# then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
-
-#
-# !! You don't need to change any of the configuration flags below !!
-#
-
-permalink: /:year/:month/:day/:title/
-
-# The release of Jekyll Now that you're using
-version: v1.2.0
-
-# Jekyll 3 now only supports Kramdown for Markdown
-kramdown:
-  # Use GitHub flavored markdown, including triple backtick fenced code blocks
-  input: GFM
-  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    # Use existing pygments syntax highlighting css
-    css_class: 'highlight'
-
-# Set the Sass partials directory, as we're using @imports
-sass:
-  style: :expanded # You might prefer to minify using :compressed
-
-# Use the following plug-ins
-gems:
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-  - jekyll-timeago
-# Exclude these files from your production _site
-exclude:
+description: "Autorizat ANRE"
+disqus: smblog-4us
+exclude: 
   - Gemfile
   - Gemfile.lock
   - LICENSE
   - README.md
   - CNAME
-
-jekyll_timeago:
-  today: 'azi'
-  yesterday: 'ieri'
-  tomorrow: 'mâine'
-  and: 'și'
-  suffix: 'în urmă'
-  prefix: ''
-  suffix_future: 'in'
-  prefix_future: ''
-  years: 'ani'
-  year: 'an'
-  months: 'luni'
-  month: 'lună'
-  weeks: 'săptămâni'
-  week: 'sătpămână'
-  days: 'zile'
-  day: 'zi'
+footer-links: 
+  creator: "http://sm-design.ro"
+  dribbble: ~
+  email: cosmin.iuresel@home-electric.ro
+  facebook: HomeElectricCDI
+  flickr: ~
+  github: ~
+  googleplus: u/0/b/102876120754765239538/+Home-electricRo
+  instagram: ~
+  linkedin: ~
+  pinterest: ~
+  rss: ~
+  stackoverflow: ~
+  twitter: ~
+  youtube: ~
+gems: 
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-timeago
+google_analytics: UA-61875005-1
+jekyll_timeago: 
+  and: și
+  day: zi
+  days: zile
+  month: lună
+  months: luni
+  prefix: ""
+  prefix_future: ""
+  suffix: "în urmă"
+  suffix_future: in
+  today: azi
+  tomorrow: mâine
+  week: sătpămână
+  weeks: săptămâni
+  year: an
+  years: ani
+  yesterday: ieri
+kramdown: 
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts: 
+    css_class: highlight
+name: "Home Electric"
+permalink: "/:year/:month/:day/:title/"
+sass: 
+  style: !ruby/symbol expanded
+url: soulmatters.github.io/home-electric
+version: v1.2.0
