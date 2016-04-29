@@ -8,7 +8,7 @@ excerpt: Energia electrică este produsă de centralele electrice. Energie chimi
 ---
 
 
-##PRODUCEREA ENERGIEI ELECTRICE, PE SCURT:
+## PRODUCEREA ENERGIEI ELECTRICE, PE SCURT:
 
 Energia electrică este produsă de centralele electrice. Acestea
 
@@ -16,7 +16,7 @@ cuprind un complex de instalaţii cu ajutorul cărora energia primară
 
 este transformată în energie electrică.
 
-##Energiile primare folosite în centralele electrice se clasifică în:
+## Energiile primare folosite în centralele electrice se clasifică în:
 
 - energii primare existente direct în natură, care pot fi
 
