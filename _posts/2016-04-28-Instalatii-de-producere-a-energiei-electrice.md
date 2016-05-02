@@ -4,12 +4,7 @@ title: INSTALAȚII DE PRODUCERE A ENERGIEI ELECTRICE
 layout: post
 imagine: /images/electro640.jpg
 excerpt: Transportul **energiei electrice** spre consumatori se face prin mai multe linii **electrice aeriene** (LEA). La consumator tensiunea este micşorată de transformatoarele staţiei coborâtoare de tensiune ST2 până la nivelul 6 kV, 10 kV sau 20 kV.
-
 ---
- 
- 
-![Electrician, Home-Electric](/images/electro640.jpg)
-
 
 **INSTALAȚII DE PRODUCERE A ENERGIEI ELECTRICE**
 
