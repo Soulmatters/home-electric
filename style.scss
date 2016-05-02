@@ -19,7 +19,7 @@ html {
 
 body {
 	background: $white;
-  font: 1.25em $roboto;
+  font: 1.26em $roboto;
   color: $darkGray;
 }
 
@@ -31,7 +31,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  
+
   color: $darkerGray;
   font-weight: bold;
 
@@ -195,7 +195,7 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  
+
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -222,8 +222,8 @@ nav {
     margin-top: 9px;
     display: block;
     font-size: 16px;
-    
-    
+
+
 
   }
 
@@ -290,7 +290,7 @@ footer {
 .intro-wrapper{
   background: url(/images/intro.jpg) center center;
   height: 400px;
-  
+
   background-size: 2200px;
   display: flex;
   justify-content: center;
@@ -373,7 +373,7 @@ body{
   margin: 0 auto;
 }
 .text-area-form textarea{
-  
+
   width:100%;
   display: block;
   margin:0 auto;
@@ -461,7 +461,7 @@ header{
   .hamburger{
     display: none;
   }
-  
+
 }
 .open{
   height: 400px;
@@ -473,4 +473,3 @@ header{
 @import "proiectare";
 @import "consultanta";
 @import "about";
-
