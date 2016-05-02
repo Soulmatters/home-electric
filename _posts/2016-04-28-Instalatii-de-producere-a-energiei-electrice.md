@@ -8,7 +8,7 @@ excerpt: Transportul **energiei electrice** spre consumatori se face prin mai mu
 ---
  
  
-![Electrician, Home-Electric](/images/electro.jpg)
+![Electrician, Home-Electric](/images/electro640.jpg)
 
 
 **INSTALAȚII DE PRODUCERE A ENERGIEI ELECTRICE**
