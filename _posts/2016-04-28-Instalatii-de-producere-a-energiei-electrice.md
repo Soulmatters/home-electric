@@ -5,7 +5,6 @@ layout: post
 imagine: /images/electro640.jpg
 excerpt: Transportul **energiei electrice** spre consumatori se face prin mai multe linii **electrice aeriene.**
 ---
-
 **INSTALAȚII DE PRODUCERE A ENERGIEI ELECTRICE**
 
 ![Electrician, Home-Electric](/images/schema.png)
