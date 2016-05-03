@@ -7,7 +7,7 @@ excerpt: Energia electrică, produsă în centrale, este transmisă la consumato
 ---
  
 ## INSTALAŢII DE TRANSPORT ŞI DISTRIBUŢIE A ENERGIEI ELECTRICE ##
-## INFORMAȚII UTILE ##
+## INFORMAȚII UTILE 
 
 
 ![Electrician, Home-Electric](/images/distributie electricitate.jpg)
