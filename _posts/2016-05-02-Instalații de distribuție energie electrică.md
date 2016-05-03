@@ -6,7 +6,6 @@ imagine: /images/distributie electricitate.jpg
 excerpt: Energia electrică, produsă în centrale, este transmisă la consumatori prin reţele electrice.
 ---
  
-## INSTALAŢII DE TRANSPORT ŞI DISTRIBUŢIE A ENERGIEI ELECTRICE ##
 ## INFORMAȚII UTILE 
 
 
