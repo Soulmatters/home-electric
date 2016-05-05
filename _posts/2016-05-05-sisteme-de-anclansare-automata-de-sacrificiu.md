@@ -8,6 +8,7 @@ excerpt: istemele de declanşare automată de sacrificiu  (D.A.S.) asigură înt
  
  
 ![Electrician, Home-Electric](/images/Captura1.PNG)
+![Electrician, Home-Electric](/images/Captura2.PNG)
 
 
 SISTEME DE ANCLANŞARE AUTOMATĂ DE SACRIFICIU
@@ -26,5 +27,5 @@ Sursa de rezervă poate suporta numai sarcina Pv (puterea receptoarelor vitale),
 - să se asigure semnalizarea permanentă a funcţionării sistemului;
 - să fie prevăzut cu posibilitatea de încercare a funcţionării prin simularea căderii sursei.
 
-![Electrician, Home-Electric](/images/Captura1.PNG)
-![Electrician, Home-Electric](/images/Captura2.PNG)
+
+
