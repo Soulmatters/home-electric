@@ -1,12 +1,12 @@
 ---
 published: true
 title: SISTEME DE ANCLANŞARE AUTOMATĂ DE SACRIFICIU
-imagine: /images/captura1.png
+imagine: /images/Captura1.png
 excerpt: Electricianul este o persoană cu o pregătire temeinică în domeniul energiei electrice.
 ---
  
  
-![Electrician, Home-Electric](/images/captura1.png)
+![Electrician, Home-Electric](/images/Captura1.png)
 
 
 SISTEME DE ANCLANŞARE AUTOMATĂ DE SACRIFICIU
@@ -25,5 +25,5 @@ SISTEME DE ANCLANŞARE AUTOMATĂ DE SACRIFICIU
 	- să se asigure semnalizarea permanentă a funcţionării sistemului;
 	- să fie prevăzut cu posibilitatea de încercare a funcţionării prin simularea căderii sursei.
 
-![Electrician, Home-Electric](/images/captura1.png)
-![Electrician, Home-Electric](/images/captura2.png)
+![Electrician, Home-Electric](/images/Captura1.png)
+![Electrician, Home-Electric](/images/Captura2.png)
