@@ -3,15 +3,13 @@ published: true
 title: SISTEME DE ANCLANŞARE AUTOMATĂ DE SACRIFICIU
 layout: post
 imagine: /images/Captura1.PNG
-excerpt: istemele de declanşare automată de sacrificiu  (D.A.S.) asigură întreruperea alimentării cu tensiune a receptoarelor de categoriile II şi III dacă sursa secundară 
+excerpt: Sistemele de declanşare automată de sacrificiu  (D.A.S.) asigură întreruperea alimentării cu tensiune a receptoarelor de categoriile II şi III dacă sursa secundară 
 ---
  
  
 ![Electrician, Home-Electric](/images/Captura3.PNG)
 
 
-
-## SISTEME DE ANCLANŞARE AUTOMATĂ DE SACRIFICIU
 
 
 **Noţiuni introductive**
