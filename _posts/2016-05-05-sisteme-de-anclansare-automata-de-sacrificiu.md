@@ -1,8 +1,9 @@
 ---
 published: true
 title: SISTEME DE ANCLANŞARE AUTOMATĂ DE SACRIFICIU
+layout: post
 imagine: /images/Captura1.png
-excerpt: Electricianul este o persoană cu o pregătire temeinică în domeniul energiei electrice.
+excerpt: istemele de declanşare automată de sacrificiu  (D.A.S.) asigură întreruperea alimentării cu tensiune a receptoarelor de categoriile II şi III dacă sursa secundară 
 ---
  
  
