@@ -7,8 +7,8 @@ excerpt: istemele de declanşare automată de sacrificiu  (D.A.S.) asigură înt
 ---
  
  
-![Electrician, Home-Electric](/images/Captura1.PNG)
-![Electrician, Home-Electric](/images/Captura2.PNG)
+![Electrician, Home-Electric](/images/Captura3.PNG)
+
 
 
 SISTEME DE ANCLANŞARE AUTOMATĂ DE SACRIFICIU
