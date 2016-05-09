@@ -1,12 +1,14 @@
 ---
 published: true
-title: RACORDAREA CONSUMATORULUI LA REŢEAUA FURNIZORULUI. NOȚIUNI GENERALE
+title: RACORDAREA CONSUMATORULUI LA REŢEAUA FURNIZORULUI.
 layout: post
 imagine: /images/industrial.jpg
 excerpt: Modul de racordare a consumatorului la reţeaua furnizorului depinde de puterea şi nivelul de tensiune al consumatorului.
 ---
 
  
+## NOȚIUNI GENERALE
+
 ![Electrician, Home-Electric](/images/industrial.PNG)
 
 Modul de racordare a consumatorului la reţeaua furnizorului depinde de puterea şi nivelul de tensiune al consumatorului. Consumatorii industriali, de joasă tensiune, se racordează la reţeaua furnizorului printr-o instalaţie numită branşament.
