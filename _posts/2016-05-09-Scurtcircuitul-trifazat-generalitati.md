@@ -70,11 +70,13 @@ Defazajele dintre tensiunile de fază şi curenţii de scurtcircuit trifazat, su
 ![Electrician, Home-Electric](/images/formula7.PNG)
 
 
-Normal, în regimul de scurtcircuit, reactanţele inductive echivalente ale reţelelor sunt mult mai mari decât rezistenţele lor echivalente ![Electrician, Home-Electric](/images/formula8.PNG) şi din acest motiv, în multe situaţii, curentul de scurtcircuit se consideră pur inductiv (defazat în urma tensiunii de fază cu 90 0 ). În realitate rezistenţa echivalentă R f nu se poate neglija. La
+Normal, în regimul de scurtcircuit, reactanţele inductive echivalente ale reţelelor sunt mult mai mari decât rezistenţele lor echivalente ![Electrician, Home-Electric](/images/formula8.PNG) şi din acest motiv, în multe situaţii, curentul de scurtcircuit se
 
-scurtcircuitele în L.E.A. sau L.E.C. de lungime foarte mare, se
+consideră pur inductiv (defazat în urma tensiunii de fază cu 90 0 ). În realitate rezistenţa
 
-consideră  sc  90 0 ( sc  60 0 pentru L.E.A. şi 30 0 pentru L.E.C.). În
+echivalentă R f nu se poate neglija. La scurtcircuitele în L.E.A. sau L.E.C. de lungime 
+
+foarte mare, se consideră  sc  90 0 ( sc  60 0 pentru L.E.A. şi 30 0 pentru L.E.C.). În
 
 cazul unor scurtcircuite din instalaţiile de înaltă tensiune ale
 
