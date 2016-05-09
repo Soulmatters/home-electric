@@ -29,11 +29,21 @@ Impedanţele echivalente, până la locul defectului, ale celor trei faze sunt e
 
 ![Electrician, Home-Electric](/images/formula1.PNG)
 
+
+
 Curenţii de scurtcircuit, deoarece se păstrează simetria sursei de alimentare, considerând sursa de putere infinită, se calculează cu:
+
+
+
 
 ![Electrician, Home-Electric](/images/formula2.PNG)
 
+
+
+
 Deoarece sistemul de alimentare este simetric:
+
+
 
 ![Electrician, Home-Electric](/images/formula3.PNG)
 
