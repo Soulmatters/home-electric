@@ -15,7 +15,7 @@ excerpt: În ţara noastră centralele termoelectrice deţin ponderea producerii
 
 După felul energiei furnizate, centralele termoelectrice se împart  în: centrale termoelectrice cu condensaţie, care produc numai energie electrică, şi centrale electrice de termoficare, care produc atât energie electrică cât şi energie termică.
 
-![Electrician, Home-Electric](/images/schema1.PNG)
+![Electrician, Home-Electric](/images/desen.PNG)
 Schema de principiu a unei centrale termoelectrice cu condensaţie.
 
 Cele mai importante circuite ale unei termocentrale cu condensaţie sunt: circuitul combustibilului, circuitul aerului de combustie, circuitul apă-abur, circuitul electric şi circuitul apei de răcire pentru condensarea aburului rezidual.
@@ -46,4 +46,5 @@ Procesele de transformare a energiilor dintr-o centrală electrică sunt însoţ
 
 ![Electrician, Home-Electric](/images/formula10.PNG)
 
-unde ![Electrician, Home-Electric](/images/t1.PNG) este temperatura sursei calde iar ![Electrician, Home-Electric](/images/t2.PNG) - temperatura sursei reci (temperatura mediului ambiant). Obişnuit ![Electrician, Home-Electric](/images/t1.PNG) = ![Electrician, Home-Electric](/images/818.PNG) K iar ![Electrician, Home-Electric](/images/t2.PNG) = ![Electrician, Home-Electric](/images/288.PNG)
+unde ![Electrician, Home-Electric](/images/t1.PNG) este temperatura sursei calde iar ![Electrician, Home-Electric](/images/t2.PNG) - temperatura sursei reci (temperatura mediului ambiant). Obişnuit ![Electrician, Home-Electric](/images/t1.PNG) = ![Electrician, Home-Electric](/images/818.PNG) K iar ![Electrician, Home-Electric](/images/t2.PNG) =
+![Electrician, Home-Electric](/images/228.PNG)
