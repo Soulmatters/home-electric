@@ -16,7 +16,7 @@ excerpt: În ţara noastră centralele termoelectrice deţin ponderea producerii
 După felul energiei furnizate, centralele termoelectrice se împart  în: centrale termoelectrice cu condensaţie, care produc numai energie electrică, şi centrale electrice de termoficare, care produc atât energie electrică cât şi energie termică.
 
 ![Electrician, Home-Electric](/images/desen.PNG)
-Schema de principiu a unei centrale termoelectrice cu condensaţie.
+
 
 Cele mai importante circuite ale unei termocentrale cu condensaţie sunt: circuitul combustibilului, circuitul aerului de combustie, circuitul apă-abur, circuitul electric şi circuitul apei de răcire pentru condensarea aburului rezidual.
 
