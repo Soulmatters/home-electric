@@ -24,3 +24,17 @@ a) Scurtcircuit trifazat simetric;
 b) Diagrama fazorilor tensiuni de fază, tensiuni de linie şi curenţi de scurtcircuit, pentru
 
 scurtcircuitul trifazat simetric.
+
+
+Impedanţele echivalente, până la locul defectului, ale celor trei
+
+faze sunt egale între ele şi au valoarea:
+![Electrician, Home-Electric](/images/formula1.PNG)
+Curenţii de scurtcircuit, deoarece se păstrează simetria sursei de
+
+alimentare, considerând sursa de putere infinită, se calculează cu:
+![Electrician, Home-Electric](/images/formula2.PNG)
+Deoarece sistemul de alimentare este simetric:
+![Electrician, Home-Electric](/images/formula3.PNG)
+şi curenţii de scurtcircuit se pot determina cu:
+![Electrician, Home-Electric](/images/formula4.PNG)
