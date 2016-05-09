@@ -56,8 +56,11 @@ Deoarece sistemul de alimentare este simetric:
 ![Electrician, Home-Electric](/images/formula5.PNG)
 
 dar:
+
 1 + a 2 + a = 0
+
 deci:
+
 
 ![Electrician, Home-Electric](/images/formula6.PNG)
 
