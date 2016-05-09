@@ -18,7 +18,6 @@ Sursa de alimentare poate să fie un generator sincron dintr-o centrală electri
 
 
 
-
 a) Scurtcircuit trifazat simetric;
 
 b) Diagrama fazorilor tensiuni de fază, tensiuni de linie şi curenţi de scurtcircuit, pentru
@@ -26,13 +25,9 @@ b) Diagrama fazorilor tensiuni de fază, tensiuni de linie şi curenţi de scurt
 scurtcircuitul trifazat simetric.
 
 
-Impedanţele echivalente, până la locul defectului, ale celor trei
-
-faze sunt egale între ele şi au valoarea:
+Impedanţele echivalente, până la locul defectului, ale celor trei faze sunt egale între ele şi au valoarea:
 ![Electrician, Home-Electric](/images/formula1.PNG)
-Curenţii de scurtcircuit, deoarece se păstrează simetria sursei de
-
-alimentare, considerând sursa de putere infinită, se calculează cu:
+Curenţii de scurtcircuit, deoarece se păstrează simetria sursei de alimentare, considerând sursa de putere infinită, se calculează cu:
 ![Electrician, Home-Electric](/images/formula2.PNG)
 Deoarece sistemul de alimentare este simetric:
 ![Electrician, Home-Electric](/images/formula3.PNG)
@@ -44,11 +39,6 @@ dar:
 1 + a 2 + a = 0
 deci:
 ![Electrician, Home-Electric](/images/formula6.PNG)
-Rezultă că suma geometrică a curenţilor de scurtcircuit trifazat
-
-simetric, care străbat cele trei faze, este egală cu zero.
-
-Defazajele dintre tensiunile de fază şi curenţii de scurtcircuit
-
-trifazat, sunt egale între ele:
+Rezultă că suma geometrică a curenţilor de scurtcircuit trifazat simetric, care străbat cele trei faze, este egală cu zero.
+Defazajele dintre tensiunile de fază şi curenţii de scurtcircuit trifazat, sunt egale între ele:
 ![Electrician, Home-Electric](/images/formula7.PNG)
