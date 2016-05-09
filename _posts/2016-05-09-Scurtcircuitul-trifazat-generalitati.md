@@ -3,7 +3,7 @@ published: true
 title: SCURTCIRCUITUL TRIFAZAT GENERALITĂȚI
 
 layout: post
-imagine: /images/stalp.jpg
+imagine: /images/scurtcircuit.PNG
 excerpt: Scurtcircuitul trifazat apare când cele trei faze ale sistemului de alimentare sunt în contact electric.
 ---
 
@@ -14,7 +14,7 @@ Scurtcircuitul trifazat apare când cele trei faze ale sistemului de alimentare 
 Sursa de alimentare poate să fie un generator sincron dintr-o centrală electrică sau un transformator din S.T. sau P.T.
 
 
-![Electrician, Home-Electric](/images/scurtcircuit.png)
+![Electrician, Home-Electric](/images/scurtcircuit.PNG)
 
 
 
