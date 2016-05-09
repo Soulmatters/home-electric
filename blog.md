@@ -22,11 +22,13 @@ published: true
 		object-fit: cover;
 	}
 	.post h1{
-		font-size: 1.5em;
+		font-size: 1.3em;
 		padding: 20px;
 	}
 	.entry{
 		padding: 20px;
+		font-size: 16pt;
+		font-weight: 300;
 	}
 </style>
 <div class="posts">
