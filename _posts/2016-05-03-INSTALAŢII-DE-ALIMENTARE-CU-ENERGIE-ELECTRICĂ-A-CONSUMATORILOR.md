@@ -7,8 +7,6 @@ imagine: /images/stalp.jpg
 excerpt: Ansamblul instalaţiilor de distribuţie şi de utilizare a energiei electrice de la nivelul unei întreprinderi.
 ---
 
- 
-![Electrician, Home-Electric](/images/stalp.jpg)
 
 Ansamblul instalaţiilor de distribuţie şi de utilizare a **energiei electrice** de la nivelul unei întreprinderi, instituţii sau colectivităţi formează consumatorul (C) de **energie electrică.**
 Furnizorul (F) de **energie electrică** este constituit din totalitatea instalaţiilor de producere, transport şi distribuţie a **energiei electrice** până la **consumator.**
