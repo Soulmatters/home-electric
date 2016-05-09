@@ -1,6 +1,6 @@
 ---
 published: true
-title: SCURTCIRCUITUL TRIFAZAT GENERALITĂȚI
+title: SCURTCIRCUITUL TRIFAZAT. GENERALITĂȚI
 
 layout: post
 imagine: /images/circuit.jpg
@@ -9,7 +9,7 @@ excerpt: Scurtcircuitul trifazat apare când cele trei faze ale sistemului de al
 
 
 
-Scurtcircuitul trifazat apare când cele trei faze ale sistemului de alimentare sunt în contact electric. Dacă defectul între cele trei faze este în acelaşi loc, la o anumită distanţă faţă de sursa de tensiune, şi impedanţele de defect sunt nule, scurtcircuitul se numeşte simetric.
+**Scurtcircuitul trifazat** apare când cele trei faze ale sistemului de alimentare sunt în contact electric. Dacă defectul între cele trei faze este în acelaşi loc, la o anumită distanţă faţă de sursa de tensiune, şi impedanţele de defect sunt nule, scurtcircuitul se numeşte **simetric.**
 
 Sursa de alimentare poate să fie un generator sincron dintr-o centrală electrică sau un transformator din S.T. sau P.T.
 
@@ -31,7 +31,7 @@ Impedanţele echivalente, până la locul defectului, ale celor trei faze sunt e
 
 
 
-Curenţii de scurtcircuit, deoarece se păstrează simetria sursei de alimentare, considerând sursa de putere infinită, se calculează cu:
+**Curenţii de scurtcircuit,** deoarece se păstrează simetria sursei de alimentare, considerând sursa de putere infinită, se calculează cu:
 
 
 
@@ -64,8 +64,9 @@ deci:
 
 ![Electrician, Home-Electric](/images/formula6.PNG)
 
-Rezultă că suma geometrică a curenţilor de scurtcircuit trifazat simetric, care străbat cele trei faze, este egală cu zero.
-Defazajele dintre tensiunile de fază şi curenţii de scurtcircuit trifazat, sunt egale între ele:
+Rezultă că suma geometrică a curenţilor de **scurtcircuit trifazat simetric,** care străbat cele trei faze, este egală cu zero.
+
+Defazajele dintre tensiunile de fază şi **curenţii de scurtcircuit trifazat,** sunt egale între ele:
 
 ![Electrician, Home-Electric](/images/formula7.PNG)
 
