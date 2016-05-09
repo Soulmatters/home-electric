@@ -14,7 +14,8 @@ excerpt: Sistemele de declanşare automată de sacrificiu  (D.A.S.) asigură în
 
 **Noţiuni introductive**
 
-Sistemele de declanşare automată de sacrificiu  (D.A.S.) asigură întreruperea alimentării cu tensiune a receptoarelor de categoriile II şi III dacă sursa secundară de tensiune nu este dimensionată să preia toată sarcina atunci când sistemul A.A.R. comandă trecerea funcţionării de pe sursa de bază (sursa I) pe sursa de rezervă (sursa II).
+Sistemele de declanşare automată de sacrificiu  (D.A.S.) asigură întreruperea alimentării cu tensiune a receptoarelor de categoriile II şi III dacă sursa secundară de tensiune nu este dimensionată să preia toată sarcina atunci când sistemul A.A.R. comandă trecerea funcţionării de pe sursa de bază (sursa I) 
+pe sursa de rezervă (sursa II).
 
 În figura de mai jos se redă schema de principiu a unui sistem D.A.S. Sistemul D.A.S. lucrează asociat cu sistemele A.A.R. unidirecţionale. Sursa I de alimentare este dimensionată să poată prelua puterea  P (P=Pv+Ps). 
 
