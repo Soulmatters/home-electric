@@ -14,7 +14,7 @@ Modul de racordare a consumatorului la reţeaua furnizorului depinde de puterea 
 Branşamentul este constituit din instalaţia de legătură dintre reţeaua de alimentare de joasă tensiune şi contorul consumatorului (contorul nu face parte din branşament).
 
 
-![Electrician, Home-Electric](/images/btansament.PNG)
+![Electrician, Home-Electric](/images/bransament.PNG)
 
 
 
