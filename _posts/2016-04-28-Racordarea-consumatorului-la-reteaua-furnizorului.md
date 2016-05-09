@@ -2,7 +2,7 @@
 published: true
 title: RACORDAREA CONSUMATORULUI LA REŢEAUA FURNIZORULUI.
 layout: post
-imagine: /images/industrial.jpg
+imagine: /images/ind.jpg
 excerpt: Modul de racordare a consumatorului la reţeaua furnizorului depinde de puterea şi nivelul de tensiune al consumatorului.
 ---
 
