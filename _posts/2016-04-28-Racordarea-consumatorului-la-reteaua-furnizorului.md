@@ -7,9 +7,9 @@ excerpt: Modul de racordare a consumatorului la reţeaua furnizorului depinde de
 ---
 
  
-## NOȚIUNI GENERALE
+## NOȚIUNI GENERALE##
 
-![Electrician, Home-Electric](/images/industrial.JPG)
+![Electrician, Home-Electric](/images/industrial.jpg)
 
 Modul de **racordare a consumatorului** la reţeaua furnizorului depinde de puterea şi nivelul de tensiune al consumatorului. **Consumatorii industriali,** de joasă tensiune, se racordează la reţeaua furnizorului printr-o instalaţie numită **branşament.**
 **Branşamentul** este constituit din instalaţia de legătură dintre reţeaua de alimentare de joasă tensiune şi contorul consumatorului (contorul nu face parte din **branşament**).
