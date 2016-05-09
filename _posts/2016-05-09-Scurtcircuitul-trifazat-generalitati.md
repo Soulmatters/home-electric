@@ -71,9 +71,7 @@ Defazajele dintre tensiunile de fază şi curenţii de scurtcircuit trifazat, su
 
 
 Normal, în regimul de scurtcircuit, reactanţele inductive echivalente ale reţelelor sunt mult mai mari decât rezistenţele lor echivalente 
-![Electrician, Home-Electric](/images/formula8.PNG) şi din acest motiv, în multe situaţii, curentul de scurtcircuit se
-
-consideră pur inductiv (defazat în urma tensiunii de fază cu ![Electrician, Home-Electric](/images/90.PNG) ). În realitate rezistenţa echivalentă ![Electrician, Home-Electric](/images/r.PNG) nu se poate neglija. La scurtcircuitele în L.E.A. sau L.E.C. de lungime foarte mare, se consideră ![Electrician, Home-Electric](/images/p.PNG)< ![Electrician, Home-Electric](/images/90.PNG)(![Electrician, Home-Electric](/images/p.PNG)![Electrician, Home-Electric](/images/=.PNG)![Electrician, Home-Electric](/images/60.PNG) pentru L.E.A. şi ![Electrician, Home-Electric](/images/30.PNG)pentru L.E.C.).
+![Electrician, Home-Electric](/images/formula8.PNG) şi din acest motiv, în multe situaţii, curentul de scurtcircuit se consideră pur inductiv (defazat în urma tensiunii de fază cu ![Electrician, Home-Electric](/images/90.PNG) ). În realitate rezistenţa echivalentă ![Electrician, Home-Electric](/images/r.PNG) nu se poate neglija. La scurtcircuitele în L.E.A. sau L.E.C. de lungime foarte mare, se consideră ![Electrician, Home-Electric](/images/p.PNG)< ![Electrician, Home-Electric](/images/90.PNG)(![Electrician, Home-Electric](/images/p.PNG)![Electrician, Home-Electric](/images/=.PNG)![Electrician, Home-Electric](/images/60.PNG) pentru L.E.A. şi  ![Electrician, Home-Electric](/images/30.PNG)pentru L.E.C.).
 
 În cazul unor scurtcircuite din instalaţiile de înaltă tensiune ale centralelor, sau aflate în apropierea acestora, rezistenţele elementelor parcurse de curent (generatoare, transformatoare etc.) nu sunt mari, de aceea se consideră: ![Electrician, Home-Electric](/images/p.PNG)<![Electrician, Home-Electric](/images/90.PNG)
 
