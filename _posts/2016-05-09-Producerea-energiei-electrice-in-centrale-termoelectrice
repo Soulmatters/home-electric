@@ -45,3 +45,5 @@ Dacă termocentrala este amplasată în apropierea unui râu cu debit mare, turn
 Procesele de transformare a energiilor dintr-o centrală electrică sunt însoţite de pierderi. Randamentul termic maxim al unei centrale termoelectrice este pentru ciclul Carnot:
 
 ![Electrician, Home-Electric](/images/formula10.PNG)
+
+unde ![Electrician, Home-Electric](/images/t1.PNG) este temperatura sursei calde iar ![Electrician, Home-Electric](/images/t2.PNG) - temperatura sursei reci (temperatura mediului ambiant). Obişnuit ![Electrician, Home-Electric](/images/t1.PNG) = ![Electrician, Home-Electric](/images/818.PNG) K iar ![Electrician, Home-Electric](/images/t2.PNG) = ![Electrician, Home-Electric](/images/288.PNG)
