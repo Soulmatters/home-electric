@@ -68,3 +68,24 @@ Rezultă că suma geometrică a curenţilor de scurtcircuit trifazat simetric, c
 Defazajele dintre tensiunile de fază şi curenţii de scurtcircuit trifazat, sunt egale între ele:
 
 ![Electrician, Home-Electric](/images/formula7.PNG)
+
+
+Normal, în regimul de scurtcircuit, reactanţele inductive echivalente ale reţelelor sunt mult mai mari decât rezistenţele lor
+
+echivalente ![Electrician, Home-Electric](/images/formula8.PNG) şi din acest motiv, în multe situaţii, curentul de scurtcircuit se consideră pur inductiv (defazat în urma tensiunii de fază cu 90 0 ). În realitate rezistenţa echivalentă R f nu se poate neglija. La
+
+scurtcircuitele în L.E.A. sau L.E.C. de lungime foarte mare, se
+
+consideră  sc  90 0 ( sc  60 0 pentru L.E.A. şi 30 0 pentru L.E.C.). În
+
+cazul unor scurtcircuite din instalaţiile de înaltă tensiune ale
+
+centralelor, sau aflate în apropierea acestora, rezistenţele elementelor
+
+parcurse de curent (generatoare, transformatoare etc.) nu sunt mari,
+
+de aceea se consideră  sc  90 0 .
+
+Din cele prezentate anterior, rezultă că în cazul scurtcircuitelor
+
+trifazate simetrice, curenţii de pe cele trei faze sunt egali în modul:
