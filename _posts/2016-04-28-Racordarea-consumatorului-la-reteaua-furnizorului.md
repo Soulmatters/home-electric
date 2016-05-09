@@ -5,7 +5,6 @@ layout: post
 imagine: /images/industrial.jpg
 excerpt: Modul de racordare a consumatorului la reţeaua furnizorului depinde de puterea şi nivelul de tensiune al consumatorului.
 ---
-![Electrician, Home-Electric](/images/ind.jpg)
 
 
 ## NOȚIUNI GENERALE##
