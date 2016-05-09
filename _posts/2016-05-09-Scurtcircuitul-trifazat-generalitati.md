@@ -77,7 +77,7 @@ consideră pur inductiv (defazat în urma tensiunii de fază cu ![Electrician, H
 
 foarte mare, se consideră ![Electrician, Home-Electric](/images/p.PNG)< ![Electrician, Home-Electric](/images/90.PNG)(![Electrician, Home-Electric](/images/p.PNG)![Electrician, Home-Electric](/images/=.PNG)![Electrician, Home-Electric](/images/60.PNG) pentru L.E.A. şi ![Electrician, Home-Electric](/images/30.PNG)pentru L.E.C.).
 
-În cazul unor scurtcircuite din instalaţiile de înaltă tensiune ale centralelor, sau aflate în apropierea acestora, rezistenţele elementelor parcurse de curent (generatoare, transformatoare etc.) nu sunt mari, de aceea se consideră ![Electrician, Home-Electric](/images/p.PNG)<![Electrician, Home-Electric](/images/90.PNG)
+În cazul unor scurtcircuite din instalaţiile de înaltă tensiune ale centralelor, sau aflate în apropierea acestora, rezistenţele elementelor parcurse de curent (generatoare, transformatoare etc.) nu sunt mari, de aceea se consideră: ![Electrician, Home-Electric](/images/p.PNG)<![Electrician, Home-Electric](/images/90.PNG)
 
 
 
