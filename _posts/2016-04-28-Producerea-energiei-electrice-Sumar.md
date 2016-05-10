@@ -6,6 +6,7 @@ imagine: /images/becuri.jpg
 excerpt: Energia electrică este produsă de centralele electrice. Energie chimică, atomică, eolian, solar, hidroelectrică.
 ---
 
+![Electrician, Home-Electric](/images/becuri.jpg)
 
 ## PRODUCEREA ENERGIEI ELECTRICE, PE SCURT:
 

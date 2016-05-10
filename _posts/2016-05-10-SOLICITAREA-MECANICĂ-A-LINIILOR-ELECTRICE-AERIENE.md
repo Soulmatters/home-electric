@@ -6,6 +6,9 @@ imagine: /images/linii.jpg
 excerpt: Liniile aeriene se dimensionează din punct de vedere electric precum liniile electrice în cablu.
 ---
 
+![Electrician, Home-Electric](/images/linii.jpg)
+
+
 **GENERALITĂȚI**
 
 **Liniile aeriene** se dimensionează din punct de vedere electric precum liniile electrice în cablu. În plus, secţiunea **conductoarelor L.E.A.** se calculează astfel încât să reziste la solicitările mecanice ale liniei.
