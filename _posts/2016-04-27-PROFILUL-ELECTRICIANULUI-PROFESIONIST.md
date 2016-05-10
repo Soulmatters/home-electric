@@ -14,8 +14,6 @@ excerpt: Electricianul este o persoană cu o pregătire temeinică în domeniul 
 **PROFILUL ELECTRICIANULUI PROFESIONIST.**
 
 
-
-
 ## Profesie și dedicare
 
 **Electricianul** este o persoană cu o pregătire temeinică în domeniul **energiei electrice**, avizat să efectueze lucrări de proiectare, execuție sau mentenanță instalații electrice.
