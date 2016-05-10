@@ -38,11 +38,11 @@ Turbinele generatorul sincron şi generatorul de curent continuu (numit şi exci
 
 **Circuitul apei de răcire**
 
-Apa de răcire a serpentinei condensatorului este antrenată în circuitul de răcire cu o pompă, iar apa încălzită prin transferul de căldură din condensator este răcită în turnul de răcire. Pentru producerea unui kWh de energie electrică este necesară o cantitate de 0,2…0,4 m &sup3; de apă. 
+Apa de răcire a serpentinei condensatorului este antrenată în circuitul de răcire cu o pompă, iar apa încălzită prin transferul de căldură din condensator este răcită în turnul de răcire. Pentru producerea unui kWh de energie electrică este necesară o cantitate de 0,2…0,4 m&sup3; de apă. 
 
-Dacă termocentrala este amplasată în apropierea unui râu cu debit mare, turnul de răcire nu mai este necesar. Apa de răcire este refulată din râu, iar cea caldă este deversată tot în râu, priza de apă rece fiind poziţionată în amonte de locul în care este deversată apa de la ieşirea serpentinei condensatorului. La centralele electrice de termoficare apa încălzită din circuitul de răcire este folosită pentru termoficare. 
+Dacă **termocentrala** este amplasată în apropierea unui râu cu debit mare, turnul de răcire nu mai este necesar. Apa de răcire este refulată din râu, iar cea caldă este deversată tot în râu, priza de apă rece fiind poziţionată în amonte de locul în care este deversată apa de la ieşirea serpentinei condensatorului. La centralele electrice de **termoficare,** apa încălzită din circuitul de răcire este folosită pentru termoficare. 
 
-Procesele de transformare a energiilor dintr-o centrală electrică sunt însoţite de pierderi. Randamentul termic maxim al unei centrale termoelectrice este pentru ciclul Carnot:
+Procesele de transformare a energiilor dintr-o centrală electrică sunt însoţite de pierderi. Randamentul termic maxim al unei **centrale termoelectrice** este pentru ciclul Carnot:
 
 ![Electrician, Home-Electric](/images/formula10.PNG)
 

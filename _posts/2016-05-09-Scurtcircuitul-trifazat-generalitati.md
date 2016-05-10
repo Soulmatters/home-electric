@@ -18,11 +18,11 @@ Sursa de alimentare poate să fie un generator sincron dintr-o centrală electri
 
 
 
-a) Scurtcircuit trifazat simetric;
+a) **Scurtcircuit trifazat** simetric;
 
 b) Diagrama fazorilor tensiuni de fază, tensiuni de linie şi curenţi de scurtcircuit, pentru
 
-scurtcircuitul trifazat simetric.
+**scurtcircuitul trifazat** simetric.
 
 
 Impedanţele echivalente, până la locul defectului, ale celor trei faze sunt egale între ele şi au valoarea:
