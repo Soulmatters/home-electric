@@ -29,6 +29,7 @@ excerpt: Energia electrică, produsă în centrale, este transmisă la consumato
 
 Transportul şi distribuţia **energiei electrice** la consumatori se face prin **linii electrice**.
 După scop, liniile electrice se împart în: linii de transport şi linii de distribuţie a energiei electrice.
+
 **Liniile electrice** de transport asigură transportul spre consumatori a unei cantităţi mari de energie electrică. Liniile de transport pot fi: de legătură între două noduri ale **sistemului electroenergetic** (asigură interconexiunea staţiilor de transformare ale **centralelor electrice**) şi de transport a energiei de la un nod, la un centru de consum.
 
 Liniile de distribuţie au o configuraţie mult mai complexă decât cele de transport a **energiei electrice.** Ele vehiculează puteri mai mici, pe distanţe mai scurte şi la un număr mai mic de consumatori.
