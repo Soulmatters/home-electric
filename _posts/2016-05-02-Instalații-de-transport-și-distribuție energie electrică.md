@@ -12,7 +12,8 @@ excerpt: Energia electrică, produsă în centrale, este transmisă la consumato
 ![Electrician, Home-Electric](/images/distributie electricitate.jpg)
 
 
-**Energia electrică**, produsă în centrale, este transmisă la consumatori prin reţele electrice. Reţelele electrice compuse din linii electrice, staţii de transformare, staţii de conexiuni şi posturi de transformare (care concură la transportul şi distribuţia **energiei electrice la consumatori**).
+**Energia electrică** produsă în centrale este transmisă la consumatori prin **reţele electrice.**
+**Reţelele electrice** compuse din linii electrice, staţii de transformare, staţii de conexiuni şi posturi de transformare (care concură la transportul şi distribuţia **energiei electrice la consumatori**).
 
 **Reţelele electrice**, datorită importanţei lor în economia naţională, trebuie să îndeplinească următoarele condiţii: să asigure continuitatea alimentării cu energie electrică a consumatorilor (mai ales a consumatorilor de mare importanţă), să prezinte siguranţă în funcţionare, să asigure parametrii calitativi ai energiei furnizate şi prin modul de funcţionare, să determine eficienţa economică a investiţiilor făcute pentru realizarea lor.
 
