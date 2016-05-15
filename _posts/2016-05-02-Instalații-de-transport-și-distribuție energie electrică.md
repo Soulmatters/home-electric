@@ -6,7 +6,7 @@ imagine: /images/distributie electricitate.jpg
 excerpt: Energia electrică, produsă în centrale, este transmisă la consumatori prin reţele electrice.
 ---
  
-## INFORMAȚII UTILE 
+## INFORMAȚII UTILE ##
 
 
 ![Electrician, Home-Electric](/images/distributie electricitate.jpg)
@@ -19,11 +19,11 @@ excerpt: Energia electrică, produsă în centrale, este transmisă la consumato
 **Energia electrică** este transportată la consumator pe diferite trepte de tensiune, care sunt stabilite pe baza unor criterii tehnico-economice, ţinând seama de pierderile de energie în reţea şi de valoarea investiţiilor. Pierderile de energie în reţea sunt direct proporţionale cu lungimea reţelei şi cu puterea vehiculată şi invers proporţionale cu pătratul tensiunii.
 	
 În ţara noastră tensiunile de linie din reţelele electrice de **curent alternativ** sunt: 0,4 kV; (6 kV); 10 kV; 20 kV; (35 kV), (60 kV); 110 kV; 220 kV; 400 kV. În paranteză sunt trecute valorile tolerate ale unor nivele de tensiune.
-	## După nivelul tensiunii, reţelele electrice se împart în:
-	- reţele de joasă tensiune (JT), cu tensiuni sub 1 kV;
-	- reţele de medie tensiune (MT), cu treptele de (6 kV); 10 kV; 20 kV şi (35 kV);
-	- reţele de înaltă tensiune (ÎT), cu treptele de (60) kV; 110 kV şi 220 kV;
-	- reţele de foarte înaltă tensiune (FIT) cu nivel de tensiune peste 220 kV.
+**După nivelul tensiunii, reţelele electrice se împart în:**
+- reţele de joasă tensiune (JT), cu tensiuni sub 1 kV;
+- reţele de medie tensiune (MT), cu treptele de (6 kV); 10 kV; 20 kV şi (35 kV);
+- reţele de înaltă tensiune (ÎT), cu treptele de (60) kV; 110 kV şi 220 kV;
+- reţele de foarte înaltă tensiune (FIT) cu nivel de tensiune peste 220 kV.
 
 Transportul şi distribuţia **energiei electrice** la consumatori se face prin **linii electrice**.
 După scop, liniile electrice se împart în: linii de transport şi linii de distribuţie a energiei electrice.
