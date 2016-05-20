@@ -31,7 +31,7 @@ permalink: /Proiectare-si-executie/
 </div>
 <div class="proiectare-instalatii">
 	<div class="automatizari "></div>
-		<h3 class="text-center">Automatizări pentru diverse aplicații de uz caznic sau industrial</h3>
+		<h3 class="text-center">Automatizări pentru diverse aplicații de uz casnic sau industrial</h3>
 </div>
 </div>
 </div>
