@@ -4,7 +4,7 @@ title: INSTALAȚII DE ALIMENTARE CU ENERGIE ELECTRICĂ A CONSUMATORILOR
 
 layout: post
 imagine: /images/stalp.jpg
-excerpt: Ansamblul instalaţiilor de distribuţie şi de utilizare a energiei electrice de la nivelul unei întreprinderi.
+excerpt: Ansamblul instalaţiilor de distribuţie şi de utilizare a energiei electrice de la nivelul unei întreprinderi, formează consumatorul (C) de energie electrică.
 ---
 
 ![Electrician, Home-Electric](/images/stalp.jpg)

@@ -22,7 +22,7 @@ published: true
 		object-fit: cover;
 	}
 	.post h1{
-		font-size: 1.3em;
+		font-size: 23px;
 		padding: 20px;
 	}
 	.entry{

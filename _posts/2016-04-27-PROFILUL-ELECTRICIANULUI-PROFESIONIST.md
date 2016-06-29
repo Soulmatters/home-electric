@@ -3,7 +3,7 @@ published: true
 title: PROFILUL ELECTRICIANULUI PROFESIONIST
 layout: post
 imagine: /images/electrician.jpg
-excerpt: Electricianul este o persoană cu o pregătire temeinică în domeniul energiei electrice, avizat să efectueze lucrări de proiectare, execuție sau mentenanță instalații electrice.
+excerpt: Electricianul este o persoană cu o pregătire temeinică în domeniul energiei electrice, avizat să efectueze lucrări.
 ---
  
  
@@ -22,12 +22,11 @@ Această profesie nu o poate practica oricine și necesită o pregătire continu
 
 ## Profilul profesional al unui bun electrician
 
-Deoarece foarte multe persoane nu cunosc atribuțiile și aptitudinile **electricianului**, voi încerca să vă descriu câteva elemente-cheie, ce conturează profilul profesional al acestuia: 
+Deoarece foarte multe persoane nu cunosc atribuțiile și aptitudinile **electricianului**, voi încerca să vă descriu câteva elemente-cheie, ce conturează profilul profesional al acestuia.
 
 În primul rând, **electricianul** trebuie să dețină o serie de aptitudini esențiale ce țin de atenție, îndemânare și asumare a responsabilității asupra activității pe care o desfășoară. De asemenea, este esențială respectarea normelor de protecție a muncii și comunicarea eficientă cu membrii echipei, unde este cazul. Astfel, orice lucrare va fi dusă la bun sfârșit, fără incidente.
 
 **Electricianul** este omul care preia o responsabilitate mare atunci când desfășoară o lucrare. Acesta de fiecare dată se supune și unui potențial risc, întrucât sunt multe alte elemente neprevăzute care pot interveni și dăuna muncii sau siguranței sale. 
-![Electrician, Home-Electric](/images/bec, priză electricitate.jpg)
 
 ## ELECTRICIANUL ÎN CONSTRUCȚII.
 
