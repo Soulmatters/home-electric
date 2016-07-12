@@ -1,6 +1,6 @@
 ---
 published: true
-title: CE ESTE UN SISTEM ENERGETIC NATIONAL (SEN)?
+title: Ce este un Sistem Energetic Național(SEN)?
 layout: post
 imagine: /images/power.jpg
 excerpt: Prin instalaţie electrică se înţelege ansamblul de echipamente electrice interconectate, care are o funcţionalitate bine determinată

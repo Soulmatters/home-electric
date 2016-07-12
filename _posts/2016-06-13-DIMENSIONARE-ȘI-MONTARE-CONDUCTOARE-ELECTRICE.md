@@ -1,6 +1,6 @@
 ---
 published: true
-title: DIMENSIONARE ȘI MONTARE CONDUCTOARE ELECTRICE
+title: Dimensionarea și montarea conductoarelor electrice
 layout: post
 imagine: /images/altcablu.jpg
 excerpt: La alegerea și montarea conductelor electrice și accesoriilor trebuie respectatecondițiile normativului I7-2011, ale producătorilor și cele din agrementele tehnice.

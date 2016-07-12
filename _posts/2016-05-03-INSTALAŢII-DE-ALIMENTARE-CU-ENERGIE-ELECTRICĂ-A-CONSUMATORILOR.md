@@ -1,6 +1,6 @@
 ---
 published: true
-title: INSTALAȚII DE ALIMENTARE CU ENERGIE ELECTRICĂ A CONSUMATORILOR
+title: Instalații de alimentare cu energie electrică a consumatorilor
 
 layout: post
 imagine: /images/stalp.jpg

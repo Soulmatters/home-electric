@@ -1,6 +1,6 @@
 ---
 published: true
-title: SCHIMBAREA FURNIZORULUI DE ENERGIE ELECTRICĂ. ÎNTREBĂRI ȘI RĂSPUNSURI
+title: Schimbarea furnizorului de energie electrică. Întrebări și răspunsuri
 layout: post
 imagine: /images/veioza.jpg
 excerpt: Datorită liberalizării pe piața de energie electrică, din 2015, orice client casnic a avut opțiunea de a-și schimba furnizorul de energie.
@@ -27,7 +27,7 @@ Energia consumată de la noul furnizor, poate fi produsă de acesta sau cumpăra
 
 **Există posibilitatea ca furnizorul anterior să îi ia contorul clientului?**
 
-Companiile de distribuție energie electrică sunt obligate să se ocupe de mentenanța instalației, ce include absolut tot până la contor, inclusiv. Indiferent de furnizorul pe care il aveți, doar distribuitorul se va ocupa de contorul dvs.
+Companiile de distribuție energie electrică sunt obligate să se ocupe de mentenanța instalației, ce include absolut tot până la contor. Indiferent de furnizorul pe care il aveți, doar distribuitorul se va ocupa de contorul dvs.
 
 **În ce constă aspectul privind prețurile oferite de furnizor? Va plăti clientul mai mult pentru facturile de energie electrică?**
 

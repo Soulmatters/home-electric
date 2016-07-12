@@ -1,6 +1,6 @@
 ---
 published: true
-title: SISTEME DE ANCLANŞARE AUTOMATĂ DE SACRIFICIU
+title: Sisteme de anclașare automată de sacrificiu
 layout: post
 imagine: /images/Captura1.PNG
 excerpt: Sistemele de declanşare automată de sacrificiu  (D.A.S.) asigură întreruperea alimentării cu tensiune a receptoarelor de categoriile II şi III dacă sursa secundară 

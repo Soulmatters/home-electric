@@ -1,6 +1,6 @@
 ---
 published: true
-title: SCURTCIRCUITUL TRIFAZAT. GENERALITĂȚI
+title: Scurtcircuitul trifazat. Generalități
 
 layout: post
 imagine: /images/circuit.jpg

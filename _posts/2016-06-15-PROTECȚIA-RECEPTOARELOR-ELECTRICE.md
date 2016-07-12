@@ -1,6 +1,6 @@
 ---
 published: true
-title: PROTECȚIA RECEPTOARELOR ELECTRICE
+title: Protecția receptoarelor electrice
 layout: post
 imagine: /images/beculete.jpg
 excerpt: Este un truism faptul că electricitatea este periculoasă și poate cauza accidente. Dispozitivele de protecție sunt destinate asigură ca astfel de accidente să nu se producă, iar dacă se produc, efectul lor să fie limitat.

@@ -1,7 +1,6 @@
 ---
 published: true
-title: PRODUCEREA ENERGIEI ELECTRICE ÎN CENTRALELE TERMOELECTRICE
-
+title: Producerea energiei electrice în centralele termoelectrice
 layout: post
 imagine: /images/termoelectric.jpg
 excerpt: În ţara noastră centralele termoelectrice deţin ponderea producerii de energie electrică.

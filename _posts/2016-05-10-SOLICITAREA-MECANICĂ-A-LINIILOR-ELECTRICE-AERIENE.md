@@ -1,6 +1,6 @@
 ---
 published: true
-title: SOLICITAREA MECANICĂ A LINIILOR ELECTRICE AERIENE(L.E.A.) 
+title: Solicitarea mecanică a Liniilor Electrice Aeriene(L.E.A.) 
 layout: post
 imagine: /images/linii.jpg
 excerpt: Liniile aeriene se dimensionează din punct de vedere electric precum liniile electrice în cablu.

@@ -1,6 +1,6 @@
 ---
 published: true
-title: INSTALAŢII DE TRANSPORT ŞI DISTRIBUŢIE A ENERGIEI ELECTRICE 
+title: Instalații de transport și distribuție a energiei electrice
 layout: post
 imagine: /images/distributie electricitate.jpg
 excerpt: Energia electrică, produsă în centrale, este transmisă la consumatori prin reţele electrice.

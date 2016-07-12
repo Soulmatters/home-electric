@@ -1,6 +1,6 @@
 ---
 published: true
-title: PUNCTUL DE DELIMITARE FURNIZOR-CONSUMATOR
+title: Punctul de delimitare furnizor-consumator
 layout: post
 imagine: /images/cabluri.jpg
 excerpt: Sistemul de alimentare a unui consumator cuprinde instalațiile electrice care asigură energia electrică necesară funcționării acestuia.

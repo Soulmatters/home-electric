@@ -1,6 +1,6 @@
 ---
 published: true
-title: SOLICITAREA TERMICĂ A CONDUCTOARELOR
+title: Solicitarea termică a conductoarelor
 layout: post
 imagine: /images/cablucalc.jpg
 excerpt: Datorită trecerii curentului electric prin conductoare se produc pierderi de energie (prin efect Joule) care determină creșterea temperaturii acestora, fenomen denumit - solicitare termică.

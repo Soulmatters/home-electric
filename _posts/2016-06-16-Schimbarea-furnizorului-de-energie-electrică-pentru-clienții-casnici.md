@@ -1,6 +1,6 @@
 ---
 published: true
-title: SCHIMBAREA FURNIZORULUI DE ENERGIE ELECTRICĂ PENTRU CLIENȚI CASNICI
+title: Schimbarea furnizorulul de energie pentru clienții casnici
 layout: post
 imagine: /images/putere.jpg
 excerpt: Conform informațiilor publicate în Monitorul Oficial din 27.11.2014. Acest lucru este încă puțin cunoscut și în 2016.

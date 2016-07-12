@@ -1,6 +1,6 @@
 ---
 published: true
-title: PRODUCEREA ENERGIEI ELECTRICE 
+title: Producerea energiei electrice
 layout: post
 imagine: /images/becuri.jpg
 excerpt: Energia electrică este produsă de centralele electrice. Energie chimică, atomică, eoliană, solar, hidroelectrică. Clasificarea energiilor primare.
