@@ -26,7 +26,7 @@ Se va efectua o vizită la punctul de consum, unde s-a semnalat problema. De la 
 
 Procesul de acordare a **despăgubirii** poate fi anevoios și de durată. Pe parcursul a 30 de zile lucrătoare de la data primirii cererii, OR împreună cu furnizorul tot vor realiza verificări. 
 
-Ulterior, dacă se dovedește faptul că este culpa OR, comisia va întocmi nota de fundamentare a plății prejudiciului. Contravaloarea **despăgubirii** pentru deteriorarea receptoarelor electrocasnice este suportată de OR şi este achitată clientului, prin intermediul furnizorului.
+Ulterior, dacă se dovedește faptul că este culpa OR, comisia va întocmi nota de fundamentare a plății prejudiciului. Contravaloarea **despăgubirii** pentru deteriorarea receptoarelor electrocasnice este suportată de OR şi este achitată clientului, prin intermediul furnizorului sau direct de OR.
 
 **Condiții de eligibilitate pentru acordarea despăgubirilor:**
 
