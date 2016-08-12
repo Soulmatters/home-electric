@@ -38,5 +38,8 @@ name: "Home Electric"
 permalink: "/:year/:month/:day/:title/"
 sass: 
   style: !ruby/symbol expanded
+  
 url: soulmatters.github.io/home-electric
 version: v1.2.0
+
+  
