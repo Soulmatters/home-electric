@@ -14,6 +14,8 @@
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Lato:300,400,900&subset=latin-ext" rel="stylesheet">
+    <link href="https://cdn.rawgit.com/michalsnik/aos/2.0.4/dist/aos.css" rel="stylesheet">
+    <script src="https://cdn.rawgit.com/michalsnik/aos/2.0.4/dist/aos.js"></script>
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
 </head>
@@ -70,7 +72,7 @@
         </div>
     </div>
 
-    <div id="main" role="main" class="container">
+    <div id="main" role="main" class="container" data-aos="zoom-in-down" data-aos-delay="300">
         {{ content }}
     </div>
 
@@ -84,5 +86,7 @@
     <script src="/js/main.js"></script>
     {% include analytics.html %}
 </body>
-
+<script>
+    AOS.init();
+  </script>
 </html>

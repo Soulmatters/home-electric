@@ -36,9 +36,9 @@ published: true
     font-family: 'Lato', sans-serif;
 }
 </style>
-<div class="posts">
+<div class="posts" >
   {% for post in site.posts %}
-    <article class="post paper-shadow-bottom-z-2">
+    <article class="post paper-shadow-bottom-z-2" data-aos="zoom-in-up" data-aos-delay="300">
 <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 <a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ post.imagine }}" alt=""></a>
       
